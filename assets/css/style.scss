@@ -3,10 +3,6 @@
 
 @import "{{ site.theme }}";
 
-.page-header {
-  padding: 1px;
-}
-
 .navBar {
   list-style-type: none;
   margin: 0;
@@ -22,7 +18,7 @@
   display: block;
   color: white;
   text-align: center;
-  padding: 25px;
+  padding: 3px;
   text-decoration: none;
+  margin: 20px;
 }
-
