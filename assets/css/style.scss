@@ -7,11 +7,12 @@
   padding: 1px;
 }
 
-.navMenu{
-  padding: 2%;
-  align-content: left;
+.navBar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
 
-.navMenuChild{
-  padding: 2.5%, 5%;
+.navBarChild {
+  display: inline;
 }
