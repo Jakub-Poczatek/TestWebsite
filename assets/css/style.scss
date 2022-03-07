@@ -11,8 +11,18 @@
   list-style-type: none;
   margin: 0;
   padding: 0;
+  overflow: hidden;
 }
 
 .navBarChild {
-  display: inline;
+  float: left;
 }
+
+.navBarChild a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 1%, 2%;
+  text-decoration: none;
+}
+
